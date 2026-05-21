@@ -25,7 +25,7 @@ main {
     justify-content: center;
 }
 
-video {
+video, iframe {
     max-width: 80%;
     max-height: 50vh;
     aspect-ratio: 16/9;
